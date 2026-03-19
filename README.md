@@ -238,7 +238,3 @@ Enterprise nodes should index these events for compliance monitoring:
 | `MatrixUpdateActivated` | TokenTransferMatrix | Matrix change activated |
 | `RestrictedTokenTransfer` | RestrictedToken | Compliant transfer completed |
 | `ComplianceCheckFailed` | RestrictedToken | Transfer rejected |
-
-## License
-
-MIT
